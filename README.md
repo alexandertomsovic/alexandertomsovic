@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all software projects, hackathons, and code wars.
 - 📫 Reach me at alextomsovic1@gmail.com
 - ✨ Check out LexBot at www.lexbot.org 
-- 👾 View my linktree at linktr.ee/alextomsovic
+- 👾 View my linktree at www.linktr.ee/alextomsovic
 
 I love to program, play basketball, and create. I like to draw, and work with procreate to create animations, logos, etc.
 I am a senior student at Mission San Jose High school in Fremont, CA. My dream college is UC Berkeley. I am an software engineer intern 

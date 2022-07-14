@@ -1,5 +1,5 @@
-# Alex Tomsovic
-## Software Engineer at [WelcomeJPEG](https://welcomejpeg.com)
+# Alexander Tomsovic
+#### Software Engineer at [WelcomeJPEG](https://welcomejpeg.com)
 
 
 👋 Hi, I’m Alexander R. Tomsovic, but you can call me Alex! (@alexandertomsovic)

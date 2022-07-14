@@ -1,5 +1,6 @@
-# Alexander Tomsovic
-#### Software Engineer at [WelcomeJPEG](https://welcomejpeg.com)
+# Alexander R. Tomsovic
+#### - Software Engineer at [WelcomeJPEG](https://welcomejpeg.com).
+### - Creator of [Instock](https://instockapp.org) and [LexBot](https://lexbot.org)
 
 
 👋 Hi, I’m Alexander R. Tomsovic, but you can call me Alex! (@alexandertomsovic)

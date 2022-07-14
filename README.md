@@ -15,12 +15,13 @@
 
 ## Scholar
 - Always learning new languages, frameworks, and concepts.
-- Studying EECS OHL '24 --> UCSB '26
+- Studying EECS OHL '24 --> UCSB '26.
 - Currently studying HTML/CSS for frontend web design. 
 
 ## Contact
-- You can contact me directly at *alextomsovicengineering@gmail.com*
+- You can follow me on Instagram [@alexsdiabolicalworld](https://instagram.com/alexsdiabolicalworld) and [LinkedIn](www.linkedin.com/in/alexandertomsovic).
 - View my [LinkTree](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
+- For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
 
 

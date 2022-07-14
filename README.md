@@ -1,9 +1,11 @@
 # Alexander R. Tomsovic
 
 ## Software Engineer
-- Software Engineer at [WelcomeJPEG](https://welcomejpeg.com).
-- Creator of [Instock](https://instockapp.org) and [LexBot](https://lexbot.org).
-- Founder of [A.R.T. Corp, LLC](https://alextomsovic1.wixsite.com/artcorp)
+- Fullstack software engineer at [WelcomeJPEG](https://welcomejpeg.com). 
+- Creator of the [Instock](https://instockapp.org) app and [LexBot](https://lexbot.org).
+- Founder of [A.R.T. Corp, LLC](https://alextomsovic1.wixsite.com/artcorp).
+
+
 
 
 👋 Hi, I’m Alexander R. Tomsovic, but you can call me Alex! (@alexandertomsovic)

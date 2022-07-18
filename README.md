@@ -23,7 +23,7 @@
 - View my [LinkTree](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
-## ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square)
 
 
 

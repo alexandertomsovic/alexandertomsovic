@@ -17,6 +17,7 @@
 - Always learning new languages, frameworks, and concepts.
 - Studying EECS OHL '24 --> UCSB '26.
 - Currently studying HTML/CSS for frontend web design. 
+- Expanding my JS and C++ expertise for AI development. 
 
 ## Contact
 - You can follow me on Instagram [@alexsdiabolicalworld](https://instagram.com/alexsdiabolicalworld) and connect with me on [LinkedIn](www.linkedin.com/in/alexandertomsovic).

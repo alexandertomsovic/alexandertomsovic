@@ -31,9 +31,6 @@
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
 ###
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
-
-###
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=blueviolet)
 ![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=89&color=brightgreen)

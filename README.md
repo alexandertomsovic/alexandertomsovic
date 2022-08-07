@@ -26,7 +26,7 @@
 - Expanding my JS and C++ expertise for AI development. 
 
 ## Contact
-- You can follow me on Instagram [@alexsdiabolicalworld](https://instagram.com/alexsdiabolicalworld) and connect with me on [LinkedIn](www.linkedin.com/in/alexandertomsovic).
+- You can follow me on Instagram [@alexsdiabolicalworld] [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram] (https://instagram.com/alexsdiabolicalworld) and connect with me on [LinkedIn](www.linkedin.com/in/alexandertomsovic).
 - View my [LinkTree](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 

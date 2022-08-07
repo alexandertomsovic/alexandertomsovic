@@ -30,7 +30,7 @@
 - View my [LinkTree](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
-## ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=brightgreen)
 ![](https://img.shields.io/static/v1?label=Instock+Users&message=11,291&color=blueviolet)
 
 

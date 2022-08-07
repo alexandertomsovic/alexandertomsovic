@@ -32,6 +32,5 @@
 
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=brightgreen)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=blueviolet)
-<img align="left" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandertomsovic_icons=true&hide_border=true&count_private=true" />
 
 

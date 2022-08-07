@@ -31,7 +31,7 @@
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=brightgreen)
-![](https://img.shields.io/static/v1?label=Instock+Users&message=11,291&color=blueviolet)
+![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=blueviolet)
 
 
 

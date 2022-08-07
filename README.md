@@ -33,5 +33,5 @@
 ###
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=3E77B6)
-![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=89&color=2E6930)
+![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=189&color=357A38)
 

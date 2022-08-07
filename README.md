@@ -5,7 +5,7 @@
 - Fullstack software engineer at [WelcomeJPEG](https://welcomejpeg.com). 
 - Creator of the [Instock App](https://instockapp.org) and [LexBot](https://lexbot.org).
 - Founder of [A.R.T. Corp, LLC](https://alextomsovic1.wixsite.com/artcorp).
-- Minted the [Potted Plants](https://opensea.io/pottedplantsnft) NFT Project that plants a real tree whenever an NFT is minted or sold. 
+- Minted the [Potted Plants NFT Project](https://opensea.io/pottedplantsnft) that plants a real tree whenever an NFT is minted or sold. 
 
 ## Hobbies
 - Quite interested in the future and applications of AI and ML.

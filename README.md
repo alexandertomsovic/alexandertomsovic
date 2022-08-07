@@ -18,7 +18,7 @@
 - Developed the [Instock App](https://instockapp.org), a free iOS / GP app that lets you find anything, anywhere, for the lowest prices.
 - Launching [Wash Your Whip](https://washyourwhip.com) in the near future, a service to find the best care products for any automotive vehicle. 
 - Working with a brilliant team to develop Eden, my  most avant-garde project yet...
-- 
+
 ## Scholar
 - Always learning new languages, frameworks, and concepts.
 - Studying EECS OHL '24 --> UCSB '26.

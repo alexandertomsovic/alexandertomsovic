@@ -29,7 +29,10 @@
 - You can follow me on Instagram [@alexsdiabolicalworld](https://instagram.com/alexsdiabolicalworld) and connect with me on [LinkedIn](www.linkedin.com/in/alexandertomsovic).
 - View my [LinkTree](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram](https://instagram.com/alexsdiabolicalworld)
+
+###
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
+
 ###
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=brightgreen)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=blueviolet)

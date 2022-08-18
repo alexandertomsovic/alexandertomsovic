@@ -6,7 +6,6 @@
 - Avid Python, HTML/CSS, Typescript, and C++ developer.
 - Creator of [**BlockTrade AI**](https://blocktradeai.com),the [**Instock App**](https://instockapp.org), and [**LexBot**](https://lexbot.org).
 - Founder of [**A.R.T. Corp, LLC**](https://alextomsovic1.wixsite.com/artcorp).
--
 
 ## Hobbies ⏰
 - Love sneakers, basketball, and all things fashion. 
@@ -38,4 +37,4 @@
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=3E77B6)
 ![](https://img.shields.io/static/v1?label=BlockTrade+AI+Trades+Executed&style=flat-square&message=2,313,005&color=421C52)
-![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=189&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=211&color=brightgreen)

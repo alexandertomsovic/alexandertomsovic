@@ -3,17 +3,20 @@
 
 ## Software Engineer 👨🏻‍💻
 - Fullstack software engineer at [**WelcomeJPEG**](https://welcomejpeg.com). 
-- Creator of the [**Instock App**](https://instockapp.org) and [**LexBot**](https://lexbot.org).
+- Avid Python, HTML/CSS, Typescript, and C++ developer.
+- Creator of [**BlockTrade AI**](https://blocktradeai.com),the [**Instock App**](https://instockapp.org), and [**LexBot**](https://lexbot.org).
 - Founder of [**A.R.T. Corp, LLC**](https://alextomsovic1.wixsite.com/artcorp).
+-
 
 ## Hobbies ⏰
-- Love sneakers, hoops, and all things fashion. 
+- Love sneakers, basketball, and all things fashion. 
 - Quite interested in the future and applications of AI and ML.
 - Dabbling in Web3 development and NFT minting.
 - Avidly partake in competative hackathons and codewars.
-- Lead graphic designer for an array of companies.
+- Graphic designer for an array of companies including Antihero, fMerch, and Arbor Day.
 
 ## Creations 💻
+- Engineered[**BlockTrade AI**](https://blocktradeai.com), an crypto trading bot that utilizes AI to generate consistant profits. 
 - Created [**LexBot**](https://lexbot.org), a social justice and community building chatbot designed to inform, educate, and construct.
 - Developed the [**Instock App**](https://instockapp.org), a free iOS / GP app that lets you find anything, anywhere, for the lowest prices.
 - Launching [**Wash Your Whip**](https://washyourwhip.com) in the near future, a service that finds the best care products for any automotive vehicle. 
@@ -34,4 +37,5 @@
 ###
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)
 ![](https://img.shields.io/static/v1?label=Instock+Users&style=flat-square&message=11,291&color=3E77B6)
+![](https://img.shields.io/static/v1?label=BlockTrade+AI+Trades+Executed&style=flat-square&message=2,313,005&color=421C52)
 ![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square&message=189&color=brightgreen)

@@ -4,7 +4,7 @@
 ## Software Engineer 👨🏻‍💻
 - Fullstack software engineer at [**WelcomeJPEG**](https://welcomejpeg.com). 
 - Avid Python, HTML/CSS, Typescript, and C++ developer.
-- Creator of [**BlockTrade AI**](https://blocktradeai.com),the [**Instock App**](https://instockapp.org), and [**LexBot**](https://lexbot.org).
+- Creator of [**BlockTrade AI**](https://blocktradeai.com), the [**Instock App**](https://instockapp.org), and [**LexBot**](https://lexbot.org).
 - Founder of [**A.R.T. Corp, LLC**](https://alextomsovic1.wixsite.com/artcorp).
 
 ## Hobbies ⏰

@@ -15,7 +15,7 @@
 - Graphic designer for an array of companies including Antihero, fMerch, and Arbor Day.
 
 ## Creations 💻
-- Engineered[**BlockTrade AI**](https://blocktradeai.com), an crypto trading bot that utilizes AI to generate consistant profits. 
+- Engineered [**BlockTrade AI**](https://blocktradeai.com), an crypto trading bot that utilizes AI to generate consistant profits. 
 - Created [**LexBot**](https://lexbot.org), a social justice and community building chatbot designed to inform, educate, and construct.
 - Developed the [**Instock App**](https://instockapp.org), a free iOS / GP app that lets you find anything, anywhere, for the lowest prices.
 - Launching [**Wash Your Whip**](https://washyourwhip.com) in the near future, a service that finds the best care products for any automotive vehicle. 

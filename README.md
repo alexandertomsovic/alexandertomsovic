@@ -3,15 +3,15 @@
 
 ## Software Engineer 👨🏻‍💻
 - Fullstack software engineer at [**WelcomeJPEG**](https://welcomejpeg.com). 
-- Avid Python, HTML/CSS, Typescript, and C++ developer.
+- Avid Python, HTML/CSS, Typescript, and C++ enthusiast.
 - Creator of [**BlockTrade AI**](https://blocktradeai.com), the [**Instock App**](https://instockapp.org), and [**LexBot**](https://lexbot.org).
-- Founder of [**A.R.T. Corp, LLC**](https://alextomsovic1.wixsite.com/artcorp).
+- Founder of [**A.R.T. LLC**](https://alextomsovic1.wixsite.com/artcorp).
 
 ## Hobbies ⏰
 - Love sneakers, basketball, and all things fashion. 
-- Quite interested in the future and applications of AI and ML.
-- Dabbling in Web3 development and NFT minting.
-- Avidly partake in competative hackathons and codewars.
+- Super excited about the future and applications of AI and ML.
+- Dabbling in Web3 development and the blockchain.
+- Always competeting in hackathons and codewars.
 - Graphic designer for an array of companies including Antihero, fMerch, and Arbor Day.
 
 ## Creations 💻

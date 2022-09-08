@@ -30,7 +30,7 @@
 
 ## Contact 📩
 - You can follow me on Instagram [@**alexsdiabolicalworld**](https://instagram.com/alexsdiabolicalworld) and connect with me on [**Linkedin**](www.linkedin.com/in/alexandertomsovic).
-- View my [**LinkTree**](https:linktr.ee/alextomsovic) here which stores a number of my projects. 
+- View my [**LinkTree**](https://linktr.ee/alextomsovic) here which stores a number of my projects. 
 - For business and project inquiries, contact *alextomsovicengineering@gmail.com*
 
 ###

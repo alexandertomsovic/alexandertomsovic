@@ -8,7 +8,7 @@
 - Founder of [**A.R.T. LLC**](https://alextomsovic1.wixsite.com/artcorp).
 
 ## Hobbies ⏰
-- Love sneakers, basketball, and all things fashion. 
+- Sneakerhead and hooper.
 - Super excited about the future and applications of AI and ML.
 - Dabbling in Web3 development and the blockchain.
 - Always competeting in hackathons and codewars.
@@ -18,9 +18,8 @@
 - Engineered [**BlockTrade AI**](https://blocktradeai.com), an crypto trading bot that utilizes AI to generate consistant profits. 
 - Created [**LexBot**](https://lexbot.org), a social justice and community building chatbot designed to inform, educate, and construct.
 - Developed the [**Instock App**](https://instockapp.org), a free iOS / GP app that lets you find anything, anywhere, for the lowest prices.
-- Launching [**Wash Your Whip**](https://washyourwhip.com) in the near future, a service that finds the best care products for any automotive vehicle. 
+- Launched [**Word Of The Day**](https://linktr.ee/wordtoday), a free daily word delivered to your messaging inbox via SMS.
 - Minted the [**Potted Plants NFT Project**](https://opensea.io/pottedplantsnft) in colaboration with the [**Arbor Day Foundation**](https://www.arborday.org/) 
-- Working with a brilliant team to develop **Eden**, my  most avant-garde project yet...
 
 ## Scholar 🎓
 - Always learning new languages, frameworks, and concepts.

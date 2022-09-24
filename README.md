@@ -23,7 +23,7 @@
 
 ## Scholar 🎓
 - Always learning new languages, frameworks, and concepts.
-- Studying EECS OHL '24 --> UCSB '26.
+- Studying EECS OHL '24 --> UCI '26.
 - Currently studying HTML/CSS for frontend web design. 
 - Expanding my JS and C++ expertise for AI development. 
 

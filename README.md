@@ -9,7 +9,6 @@
 - [**Crunchbase**](https://www.crunchbase.com/person/alex-tomsovic)
 
 ## Contact
-![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)
-[![](https://img.shields.io/static/v1?label=Contact&style=flat-square&message=10,441&color=3E77B6)](mailto:alex@cacti.vc)
+[![](https://img.shields.io/static/v1?label=Pitch+Me&style=flat-square&message=Cacti+Ventures&color=06402B)](mailto:alex@cacti.vc)
 [![](https://img.shields.io/static/v1?label=BlockTrade+AI+Trades+Executed&style=flat-square-square&message=2,463,012&color=421C52)](https://blocktradeai.com)
 [![](https://img.shields.io/static/v1?label=Trees+Planted+With+Potted+Plants+Project&style=flat-square-square&message=285&color=brightgreen)](https://arborday.org)

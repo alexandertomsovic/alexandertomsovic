@@ -1,7 +1,13 @@
 # Alex Tomsovic
 
-- Co-founder of [**Galactica**](https://galactica.gg). 
-- General partner & Solo capitalist at [**Cacti**](https://cacti.vc). 
+## Current
+- Co-founder of [**Galactica**](https://galactica.gg) - acquired by MyPrize casino. 
+- General partner & Solo capitalist at [**Cacti**](https://cacti.vc).
+
+## Profiles
+
+- [**Linkedin**](https://www.linkedin.com/in/atomsovic/)
+- [**Crunchbase**](https://www.crunchbase.com/person/alex-tomsovic)
 
 
 ![](https://komarev.com/ghpvc/?username=alexandertomsovic&style=flat-square&color=ff0000)

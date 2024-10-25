@@ -8,5 +8,10 @@
 - [**Linkedin**](https://www.linkedin.com/in/atomsovic/)
 - [**Crunchbase**](https://www.crunchbase.com/person/alex-tomsovic)
 
-## Contact
+## Investments 📑
+- Shield AI
+- Stacking DAO
+- PWR Labs
+- OrgOrg
+- Glean
 [![](https://img.shields.io/static/v1?label=Pitch+Me&style=flat-square-square&message=Cacti+Ventures&color=06402B)](mailto:alex@cacti.vc)

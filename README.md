@@ -2,15 +2,15 @@
 
 
 ## Current 📲
-- Co-founder at [**Galactica Limited**](https://galactica.gg) - acquired by MyPrize casino in 2024. 
-- General partner & Solo capitalist at [**Cacti Ventures**](https://cacti.vc).
-- Building in AI
+- Co-founder at [**Galactica Limited**](https://galactica.gg) - acquired by MyPrize Casino in 2024. 
+- General partner & Solo Capitalist at [**Cacti Ventures**](https://cacti.vc).
+- Fan of chess.com
 
 ## Profiles 👤
 - [**Linkedin**](https://www.linkedin.com/in/atomsovic/)
 - [**Crunchbase**](https://www.crunchbase.com/person/alex-tomsovic)
 
-## Investments 📑
+## Investment Highlights 📑
 - Shield AI
 - Stacking DAO
 - PWR Labs

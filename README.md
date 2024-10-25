@@ -3,6 +3,7 @@
 ## Current 📲
 - Co-founder of [**Galactica Limited**](https://galactica.gg) - acquired by MyPrize casino in 2024. 
 - General partner & Solo capitalist at [**Cacti Ventures**](https://cacti.vc).
+- Building in AI
 
 ## Profiles 👤
 - [**Linkedin**](https://www.linkedin.com/in/atomsovic/)

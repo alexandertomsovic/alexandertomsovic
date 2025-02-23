@@ -9,7 +9,7 @@
 ## Profiles 👤
 - [**Linkedin**](https://www.linkedin.com/in/atomsovic/)
 - [**Crunchbase**](https://www.crunchbase.com/person/alex-tomsovic)
--[**Mercury**](https://mercury.com/investor-database/alex-tomsovic)
+- [**Mercury**](https://mercury.com/investor-database/alex-tomsovic)
 
 ## Investment Highlights 📑
 - Shield AI

@@ -2,7 +2,7 @@
 
 
 ## Current 📲
-- Co-founder at [**Galactica Limited**](https://galactica.gg) - acquired by MyPrize Casino in 2024. 
+- Co-founder at [**Galactica Limited**](https://galactica.gg) 
 - General partner & Solo Capitalist at [**Cacti Ventures**](https://cacti.vc).
 - Fan of chess.com
 

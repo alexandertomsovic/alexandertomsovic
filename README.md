@@ -2,9 +2,9 @@
 
 
 ## Current 📲
-- Co-founder at [**Galactica Limited**](https://galactica.gg) 
-- General partner & Solo Capitalist at [**Cacti Ventures**](https://cacti.vc).
-- Fan of chess.com
+- Building [**Axis Platforms**](https://launch.axis.inc) 
+- Running [**Cacti Ventures**](https://cacti.vc).
+- Fan of chess.com & the NYT Games App
 
 ## Profiles 👤
 - [**Linkedin**](https://www.linkedin.com/in/atomsovic/)
